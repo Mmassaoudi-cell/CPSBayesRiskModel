@@ -67,6 +67,3 @@ The model follows these steps:
 
 The held-out test split is not used to fit feature scaling, imputation, calibration, or the classifier. Risk scores are computed from predicted probabilities only.
 
-## Notes
-
-This folder is meant for method reproduction, not for recreating the full paper experiment suite. The full paper pipeline contains baselines, summary files, and figures; those components are intentionally omitted here.
