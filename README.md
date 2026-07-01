@@ -1,6 +1,5 @@
 # CPSBayesRisk
 
-This folder contains the Python code needed to reproduce the proposed Paper 2 method only. It intentionally excludes benchmark comparisons, paper tables, and plotting code.
 
 The method is a cyber-physical risk-aware intrusion detection model for power-system traces. It augments telemetry with relay, phasor, and Snort-derived CPS summary features, trains a calibrated Random Forest classifier, and converts calibrated class probabilities into Bayesian-style cyber-physical risk scores.
 
